@@ -1,0 +1,7 @@
+		K=0	K=2	K=4	K=8	K=16	K=32
+name		zero	few-XS	few-S	few-M	few-L	few-XL
+train		5416	5416	5416	5416	5416	5416
+-of which est	0	4	8	16	32	64
+-% of evc	0	0.23	0.45	0.9	1.8	3.6
+test		1700	1700	1700	1700	1700	1700
+		
