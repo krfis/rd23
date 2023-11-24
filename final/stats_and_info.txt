@@ -5,3 +5,10 @@ train		5416	5416	5416	5416	5416	5416
 -% of evc	0	0.23	0.45	0.9	1.8	3.6
 test		1700	1700	1700	1700	1700	1700
 		
+
+few_test = 1700 estonian examples (if no dev)
+
+if dev:
+	dev_est = 850 estonian examples (425 of each label)
+	test_est = 850 estonian examples (425 of each label)
+	
