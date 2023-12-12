@@ -1,6 +1,8 @@
 # rd23
 
-Modified versions of the original datasets published by Pajupuu et al. (2016) and Lindén et al. (2023) for Finnish-Estonian transfer learning experiments
+Custom versions of the data sets published by Pajupuu et al. (2016) and Lindén et al. (2023) for Finnish-Estonian transfer learning experiments.
+
+For the original data sets, see:
 
 Hille Pajupuu, Rene Altrov, and Jaan Pajupuu. Identifying polarity in different text types. Folklore: Electronic Journal of Folklore, 64:125–142, 2016.
 
